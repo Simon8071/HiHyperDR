@@ -1,0 +1,17 @@
+{
+  "dataset": "DrugBank",
+  "seed": 42,
+  "test_size": 0.2,
+  "random_feature_dim": 128,
+  "lr": 0.0007804045369218654,
+  "latdim": 256,
+  "hyperNum": 128,
+  "gnn_layer": 1,
+  "keepRate": 0.8,
+  "temp": 0.2,
+  "ssl_reg": 0.01,
+  "global_cl_reg": 0.1,
+  "local_cl_reg": 0.0,
+  "proto_t": 0.2,
+  "reg": 0.00017062895447257938
+}

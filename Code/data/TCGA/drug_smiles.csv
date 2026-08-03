@@ -1,0 +1,6 @@
+drug_name,smiles
+Cisplatin,N.N.Cl[Pt]Cl
+5-fluorouracil,C1=C(C(=O)NC(=O)N1)F
+Gemcitabine,C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F
+Sorafenib,CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F
+Temozolomide,CN1C(=O)N2C=NC(=C2N=N1)C(=O)N

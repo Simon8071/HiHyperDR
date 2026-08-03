@@ -1,0 +1,17 @@
+{
+  "dataset": "TCGA",
+  "seed": 42,
+  "test_size": 0.2,
+  "random_feature_dim": 128,
+  "lr": 0.00166141808226073,
+  "latdim": 128,
+  "hyperNum": 16,
+  "gnn_layer": 1,
+  "keepRate": 0.7,
+  "temp": 0.2,
+  "ssl_reg": 0.001,
+  "global_cl_reg": 0.1,
+  "local_cl_reg": 0.1,
+  "proto_t": 0.2,
+  "reg": 3.436635458586641e-07
+}

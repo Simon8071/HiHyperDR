@@ -1,0 +1,12 @@
+**/__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.pytest_cache/
+.coverage
+.agents/
+wandb/
+Code/wandb/
+Code/results/
+Code/Logs/
+Code/data/single cell/**/*.h5ad
