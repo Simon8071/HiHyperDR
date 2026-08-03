@@ -1,6 +1,6 @@
 # HiHyperDR
 
-HiHyperDR is a multi-level ante-hoc self-explainable hypergraph learning model
+HiHyperDR is a Hierarchical self-explainable hypergraph learning model
 for drug response prediction. Unlike post-hoc methods that apply an external
 explainer after training, HiHyperDR embeds explanation into model optimization.
 Information Bottleneck constraints jointly optimize prediction and explanation,
