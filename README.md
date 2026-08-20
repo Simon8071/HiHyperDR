@@ -135,5 +135,5 @@ A reproducible environment for HiHyperDR is available on [Code Ocean](https://co
 
 If you have any questions or suggestions regarding this work, please feel free to contact us:
 
-- **Zhen Feng:** Simon7@stu.ahau,edu.cn
+- **Zhen Feng:** Simon7@stu.ahau.edu.cn
 - **Zhenyu Yue:** zhenyuyue@ahau.edu.cn
