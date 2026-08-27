@@ -20,6 +20,12 @@ Run all commands from the repository root. Install PyTorch for the CUDA version 
 pip install -r requirements.txt
 ```
 
+## Hardware and experimental settings
+
+Except for the distributed single-cell experiments, all experiments were performed on an NVIDIA GeForce RTX 4090 GPU. The distributed single-cell experiments were performed on NVIDIA A100 GPUs.
+
+The dataset-specific experimental configurations and parameter settings are provided in the corresponding model directories under `Code/Models/ckl/`. The `best_params.json` file in each dataset directory records the parameter settings used for the corresponding experiments.
+
 ## Data preparation
 
 The datasets used by HiHyperDR are available from [Zenodo](https://doi.org/10.5281/zenodo.21977860).
